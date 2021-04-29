@@ -2,7 +2,10 @@ TETRIS
 
 Cílem této hry je pomocí šipek navigovat padající obrazce složené z kostiček a pokládat je na místa tak, aby do sebe zapadaly. Po zaplnění celého řádku v hracím poli se řádek kostiček odmaže, dílky nad ním se posunou směrem dolů a hráč obdrží odměnu v podobě bodů.  Pokud dojde k situaci, kdy hráč zaplní celé hrací pole až k hornímu okraji, a tedy není možné již vygenerovat další dílek, nastane konec hry.
 
-
+Instalace
+Zkompiluje kód, nebo stáhněte složku DIST
+Spusťte .jar
+Enjoy!
 
 
 
